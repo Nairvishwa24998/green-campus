@@ -270,14 +270,5 @@ The workflow includes:
 |                                    | `test_calculate_user_eco_points_no_points`   | Handle scenario where user has no eco-points.                                | ✅ Passed        |
 | **Authentication**                 | `test_login_with_unverified_email`           | Test login with an unverified email.                                         | ✅ Passed        |
 | **Vendor Dashboard**               | `test_get_user_products_valid_user`          | Fetch products for a valid user.                                             | ✅ Passed        |
-|                                    | `test_get_user_products_no_products`         | Handle scenario where user has no products.                                  | ✅ Passed       |
-
-## Contributing Members
-| **Name and Id**           | **Contribution(%)** | **Key Contributions**                                    | 
-|---------------------------|---------------------|----------------------------------------------------------|
-| Rohit Adhikari (2662277)  | 20%                 | Contributed extensively to core features <br/>(MQTT, CI pipeline, dashboards, UI, CO2 chart)    |
-| Viswanath Nair (2784312)  | 20%                 | Contributed to vendor management, email functionality and impemented logic for dynamic discounting |
-| Anupama Hasurkar(2751907) | 20%                 | Added Authentication of Users                            |
-| Yash Zore (2768565)       | 20%                 | Focused on gamification, eco points dashboard, <br/>and UI enhancements, with significant feature additions. |                         
-| Melissa Zulle (2849974)   | 20%                 | Contributed to UI based additions to smart food expiry and database storage             |
+|                                    | `test_get_user_products_no_products`         | Handle scenario where user has no products.                                  | ✅ Passed       | |
 
